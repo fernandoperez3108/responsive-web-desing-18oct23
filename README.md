@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fernandoperez3108.github.io/responsive-web-desing-18oct23-fernan/)
 
 
 ## Getting Started
@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **fernando Pérez**
 
-- GitHub:[ fernandoperez3108](https://github.com/fernandoperez3108)
+- GitHub:[fernandoperez3108](https://github.com/fernandoperez3108)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
