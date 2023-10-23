@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **fernando Pérez**
 
-- GitHub: fernandoperez3108
+- GitHub:[ fernandoperez3108](https://github.com/fernandoperez3108)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
